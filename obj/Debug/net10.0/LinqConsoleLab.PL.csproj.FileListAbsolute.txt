@@ -1,0 +1,14 @@
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.exe
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.deps.json
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.runtimeconfig.json
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.dll
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.pdb
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.AssemblyInfoInputs.cache
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.AssemblyInfo.cs
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.csproj.CoreCompileInputs.cache
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.dll
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\refint\LinqConsoleLab.PL.dll
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.pdb
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.genruntimeconfig.cache
+C:\Users\stasio\Downloads\LinqConsoleLab.PL (1)\LinqConsoleLab.PL\obj\Debug\net10.0\ref\LinqConsoleLab.PL.dll
